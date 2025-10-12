@@ -1,0 +1,86 @@
+— Level 1 — (start time: 20s)
+Time remaining: 20s
+Time remaining: 19s
+Time remaining: 18s
+Time remaining: 17s
+Time remaining: 16s
+Time remaining: 15s
+Time remaining: 14s
+Time remaining: 13s
+Time remaining: 12s
+Time remaining: 11s
+Time remaining: 10s
+Time remaining: 9s
+Time remaining: 8s
+Time remaining: 7s
+Time remaining: 6s
+Time remaining: 5s
+Time remaining: 4s
+Time remaining: 3s
+Time remaining: 2s
+Time remaining: 1s
+TIME UP! Restarting clock…
+— Level 2 — (start time: 18s)
+Time remaining: 18s
+Time remaining: 17s
+Time remaining: 16s
+Time remaining: 15s
+Time remaining: 14s
+Time remaining: 13s
+Time remaining: 12s
+Time remaining: 11s
+Time remaining: 10s
+Time remaining: 9s
+Time remaining: 8s
+Time remaining: 7s
+Time remaining: 6s
+Time remaining: 5s
+Time remaining: 4s
+Time remaining: 3s
+Time remaining: 2s
+Time remaining: 1s
+TIME UP! Restarting clock…
+— Level 3 — (start time: 16s)
+Time remaining: 16s
+Time remaining: 15s
+Time remaining: 14s
+Time remaining: 13s
+Time remaining: 12s
+Time remaining: 11s
+Time remaining: 10s
+Time remaining: 9s
+Time remaining: 8s
+Time remaining: 7s
+Time remaining: 6s
+Time remaining: 5s
+Time remaining: 4s
+Time remaining: 3s
+Time remaining: 2s
+Time remaining: 1s
+TIME UP! Restarting clock…
+— Level 4 — (start time: 14s)
+Time remaining: 14s
+Time remaining: 13s
+Time remaining: 12s
+Time remaining: 11s
+Time remaining: 10s
+Time remaining: 9s
+Time remaining: 8s
+Time remaining: 7s
+Time remaining: 6s
+Time remaining: 5s
+Time remaining: 4s
+Time remaining: 3s
+Time remaining: 2s
+Time remaining: 1s
+TIME UP! Restarting clock…
+— Level 5 — (start time: 8s)
+Time remaining: 8s
+Time remaining: 7s
+Time remaining: 6s
+Time remaining: 5s
+Time remaining: 4s
+Time remaining: 3s
+Time remaining: 2s
+Time remaining: 1s
+TIME UP! Restarting clock…
