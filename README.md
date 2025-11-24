@@ -1,3 +1,19 @@
+# TODO
+
+- Clock v1: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Clock-App/V1
+- Clock v2: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Clock-App/V2
+- Clock v3: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Clock-App/V3
+- Clock v5: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Clock-App/V5
+- Binary: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Binary/V3
+- Ice Cream: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Ice-Cream
+- Frog: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Clock-Game
+- Initials v1: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Initials/v1
+- Initials v2: NO.
+- Ice Cream: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/ice_cream
+- Pixel Challenge: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/Pixel
+- Swift Design Challenge: OK. https://github.com/MehmetBener/AP-CS-Principles-Projects/tree/main/SwiftFigmaScreenV1
+
+
 # NOTES
 
 ### Quiz 2.2
